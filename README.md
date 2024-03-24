@@ -1,4 +1,2 @@
 - 👋 Hi, I’m mhhklmy
-- 👀 I’m interested in C++，python，php and hacker
-- 🌱 I’m currently learning C++
 - 📫 How to reach me tg:@mhhklmy
